@@ -1,0 +1,26 @@
+#subscribe-btn {
+    color: white;
+    font-size: 16px;
+    font-family: Montserrat;
+    font-weight: 500;
+    line-height: 20px;
+    word-wrap: break-word;
+    border-radius: 22px;
+    background: #1D1A1A;
+    padding: 8px 20px;
+}
+
+
+.icon{
+    font-size: 20px;
+}
+
+.navbar-end ul li{
+    padding: 10px;
+}
+.nav-divider{
+    background: #DDD;
+    width: 1110px;
+    height: 2px;
+   
+}
