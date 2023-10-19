@@ -7,7 +7,7 @@ const NavBar = () => {
     return (
         <div>
            <UpperNavBar></UpperNavBar> 
-           <div className="nav-divider mx-auto" />
+           <div className="nav-divider mx-auto my-4" />
            <BottomNavbar></BottomNavbar>
         </div>
     );

@@ -11,16 +11,65 @@
 }
 
 
-.icon{
+.icon {
     font-size: 20px;
 }
 
-.navbar-end ul li{
+.navbar-end ul li {
     padding: 10px;
 }
-.nav-divider{
+
+.nav-divider {
     background: #DDD;
     width: 1110px;
     height: 2px;
-   
+
 }
+
+.logo-icon {
+    color: #1D1A1A;
+    font-family: Quinshy;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 70px;
+
+}
+
+.navbar-center ul li a{
+    color: #1D1A1A;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    padding: 12px;
+    line-height: 20px;
+}
+
+
+/* SearchBar.css */
+.search-bar {
+    display: flex;
+    background: transparent; /* Make the background transparent */
+    border: none; /* Remove the border */
+  }
+  
+  .search-input {
+    padding: 10px 5px;
+    width: 150px;
+    background: transparent;
+    border: none;
+    text-align: right;
+    font-size: medium;
+    color: #1D1A1A; /* Text color */
+  }
+  
+  .search-button {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    color: #1D1A1A;/* Icon color */
+    padding: 10px;
+    font-size: 20px;
+  }
+  
